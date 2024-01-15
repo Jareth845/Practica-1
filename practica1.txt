@@ -1,1 +1,7 @@
-/**
+public class Main {
+    public static void main(String[] args) {
+        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
+        // to see how IntelliJ IDEA suggests fixing it.
+        System.out.printf("Objetivo: Primera practica\n Integrantes: Javier Agustin Aguila, Jareth Viveros Hernandez, Jose de Jesus Perez Delgado\nHola Mundo");
+    }
+}
